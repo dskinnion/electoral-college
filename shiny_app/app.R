@@ -501,14 +501,15 @@ ui <- navbarPage("Whom Does the Electoral College Benefit?",
                           state has -- this has usually limited D.C. to 3 votes."),
                           h3("The data for the United States general elections was 
                           found from a Github repository which included multiple 
-                          government datasets. Elections that were contested were 
+                          government datasets (https://github.com/zonination/election-history). 
+                          Elections that were contested were 
                           labelled with asterisks in this dataset, so I amended 
                           the dataset with the wikipedia data set found here: 
                           https://en.wikipedia.org/wiki/United_States_Electoral_College. 
                           The population data for the states are based off of the 
                           United States Census, conducted every 10 years. This 
                           dataset was found from a GitHub repository with historical
-                          data."),
+                          data (https://github.com/ropensci/historydata/blob/master/data-raw/nhgis0011_ts_state.csv)."),
                           h3("Per political historians, it is widely believed that
                              there was a party realignment during the Presidency of
                              Franklin D. Roosevelt. As such, the comparisons made
