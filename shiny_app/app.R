@@ -515,6 +515,12 @@ ui <- navbarPage("Whom Does the Electoral College Benefit?",
                              Franklin D. Roosevelt. As such, the comparisons made
                              between the Democratic and Republican Parties only
                              include the years from 1932 to 2016."),
+                          HTML('<iframe width="560" 
+                               height="315" 
+                               src="https://www.youtube.com/embed/YEXrcXhZE9k" 
+                               frameborder="0" 
+                               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                               allowfullscreen></iframe>'),
                           h3("Final Project. Harvard College Gov. 1005."),
                           h3("Author: Dominic Skinnion")
                  ),
